@@ -1,0 +1,7 @@
+This is an untested encryption program that uses a sinusodial equation generated from a passcode, the input
+mechanism is not safe, so if you don't want to loose your data only use passcodes that use alpha-numeric values
+(no spaces or special characters)
+
+The basic caesar cipher is a 2 char shift
+
+enjoy :)
